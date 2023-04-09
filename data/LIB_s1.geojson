@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "LIB_s1",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "show": "Love is Blind", "season": 1, "release-year": 2020, "year-filmed": 2018, "film_set_type": "pods", "name": "Trilith Studios", "city": "Atlanta", "state": "GA", "country": "USA", "lat": 33.4731485, "long": -84.5147164, "contestants": 30 }, "geometry": { "type": "Point", "coordinates": [ -84.5147164, 33.4731485 ] } },
+{ "type": "Feature", "properties": { "show": "Love is Blind", "season": 1, "release-year": 2020, "year-filmed": 2018, "film_set_type": "honeymoon-retreat", "name": "Grand Velas", "city": "Playa Del Carmen", "state": "na", "country": "Mexico", "lat": 20.6475243, "long": -87.348466, "contestants": 12 }, "geometry": { "type": "Point", "coordinates": [ -87.348466, 20.6475243 ] } },
+{ "type": "Feature", "properties": { "show": "Love is Blind", "season": 1, "release-year": 2020, "year-filmed": 2018, "film_set_type": "apartments", "name": "Spectrum on Spring", "city": "Atlanta", "state": "GA", "country": "USA", "lat": 33.7896249, "long": -84.3921131, "contestants": 10 }, "geometry": { "type": "Point", "coordinates": [ -84.3921131, 33.7896249 ] } },
+{ "type": "Feature", "properties": { "show": "Love is Blind", "season": 1, "release-year": 2020, "year-filmed": 2018, "film_set_type": "wedding-location", "name": "Flourish Atlanta", "city": "Atlanta", "state": "GA", "country": "USA", "lat": 33.8418247, "long": -84.3732376, "contestants": 4 }, "geometry": { "type": "Point", "coordinates": [ -84.3732376, 33.8418247 ] } }
+]
+}

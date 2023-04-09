@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "beeline_s3_apartments-wedding",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "layer": "season 3: apartments → wedding" }, "geometry": { "type": "LineString", "coordinates": [ [ -96.8286632, 32.9462948 ], [ -97.270427700000013, 32.5162831 ] ] } }
+]
+}

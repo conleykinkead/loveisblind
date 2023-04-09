@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "LIB_s2",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "show": "Love is Blind", "season": 2, "release-year": 2022, "year-filmed": 2021, "film_set_type": "pods", "name": "LA North Studios", "city": "Santa Clarita", "state": "CA", "country": "USA", "lat": 34.4314579, "long": -118.5711561, "contestants": 30 }, "geometry": { "type": "Point", "coordinates": [ -118.5711561, 34.4314579 ] } },
+{ "type": "Feature", "properties": { "show": "Love is Blind", "season": 2, "release-year": 2022, "year-filmed": 2021, "film_set_type": "honeymoon-retreat", "name": "TRS Coral Hotel", "city": "Cancun", "state": "na", "country": "Mexico", "lat": 21.26558, "long": -86.8188626, "contestants": 12 }, "geometry": { "type": "Point", "coordinates": [ -86.8188626, 21.26558 ] } },
+{ "type": "Feature", "properties": { "show": "Love is Blind", "season": 2, "release-year": 2022, "year-filmed": 2021, "film_set_type": "apartments", "name": "Sentral Apartments", "city": "Chicago", "state": "IL", "country": "USA", "lat": 41.871533, "long": -87.626628, "contestants": 10 }, "geometry": { "type": "Point", "coordinates": [ -87.626628, 41.871533 ] } },
+{ "type": "Feature", "properties": { "show": "Love is Blind", "season": 2, "release-year": 2022, "year-filmed": 2021, "film_set_type": "wedding-location", "name": "Ravisloe Country Club", "city": "Homewood", "state": "IL", "country": "USA", "lat": 41.5616385, "long": -87.6736343, "contestants": 4 }, "geometry": { "type": "Point", "coordinates": [ -87.6736343, 41.5616385 ] } }
+]
+}
