@@ -1,0 +1,1 @@
+var json_beeline_s1_apartmentswedding_3 = {"type":"FeatureCollection","name":"beeline_s1_apartmentswedding_3","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{},"geometry":{"type":"LineString","coordinates":[[-84.3921131,33.7896249],[-84.3732376,33.8418247]]}}]}
