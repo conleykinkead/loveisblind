@@ -11,8 +11,3 @@ s3	#6B5A61
 s4	#d1813d
 
 →
-
-
-season 3: apartments → wedding
-season 3: honeymoon retreat → apartments
-season 3: pods → honeymoon retreat
